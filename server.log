@@ -1,0 +1,12 @@
+############################### EXISTS CHECK OPEN #################################
+At 02/13/2020 02:51:11 pm a visitor checked if account has already been registered
+Request that was received at the time {"email_address":"keemsisi@gmail.com","phone_number":"9202020","partner_email_address":"partner@gmail.com","partner_phone_number":"-1"}
+Request time 02/13/2020 02:51:11 pm
+Response code sent 409
+###############################EXISTS CHECK CLOSED #################################
+
+############################ START ####################################
+At 02/13/2020 02:53:37 pm the message was generated.
+A new member was registered at02/13/2020 02:53:37 pmafter payment was successful! SERVER RESPONSE CODE :::: 200
+############################# END ###################################
+
