@@ -3,5 +3,6 @@
 ## to set up the database
 navigate to the created sub domain and go to the db.init.php route
 http://ccreg2020.appsmithers.com/db.init.php
+# Create a database to store the table from phpmyadmin admin control panel
 # after then the database will be automatically set up and the app is ready to receive responses.
 Thank you!
