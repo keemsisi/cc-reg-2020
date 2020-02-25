@@ -107,7 +107,7 @@ document.getElementById('process-payment').onclick = (event) => {
                     sendData();
                     function sendData() {
                         var xml = new XMLHttpRequest();
-                        xml.open(`GET`, `save_response.php?${query_params}`);
+                        xml.open(`GET`, "save_response.php?"+`${query_params}`);
                         xml.onreadystatechange = () => {
                             if (xml.readyState === XMLHttpRequest.DONE && xml.status === 200) {
                                 window.open("success.html", "_self");
